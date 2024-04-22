@@ -1,4 +1,4 @@
-# Welcome to Form Github Profiles
+# Welcome to Github Profiles
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
